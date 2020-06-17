@@ -3,7 +3,7 @@
 
 ### Livrables :
 
-Un lien vers le répertoire Git (public) contenant : les fichiers sources du projet.
+Un lien vers le répertoire Git (public) contenant les fichiers sources du projet.
 
 ### Contexte du projet :
 
